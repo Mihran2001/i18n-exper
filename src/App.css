@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  background-color: rgb(114, 114, 121)  ;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ h1{
+  color: aliceblue;
+  background-color: rgb(151, 144, 125);
+}
+
+p {
+  color: aliceblue;
+
+}
